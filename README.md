@@ -1,4 +1,24 @@
-## Hi there 👋
+# Be Chan
+
+Mathematics graduate exploring Data Science, Machine Learning, and Biostatistics.
+
+## Interests
+Math • Data Science • Machine Learning • Biostatistics
+
+## Current Focus
+Building projects in:
+- Data analysis
+- Machine learning
+- statistical modeling
+
+## Tools
+
+Python  
+Pandas  
+NumPy  
+Scikit-learn  
+Jupyter Notebook  
+Git
 
 <!--
 **be-chan-becson/be-chan-becson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
